@@ -1,5 +1,5 @@
 
-# 👋 Olá, eu sou Wanderlei Grizolli
+# 👋 Olá, eu sou Wanderlei Grizolli mais conhecido como "WANDECO"
 
 ## 🌟 Sobre Mim
 Sou um Sr Technical Specialist apaixonado por tecnologia e inovação. Tenho vasta experiência em ajudar clientes a adotar e integrar novas tecnologias, com foco em soluções como Copilot e Surface.
